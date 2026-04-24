@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao Meu Perfil GitHub
 
-Olá! Sou **[Seu Nome]**, um desenvolvedor apaixonado por criar soluções de software impactantes.
+Olá! Sou **Cauã**, um desenvolvedor apaixonado por criar soluções de software impactantes.
 
 ## 🚀 Sobre Mim
 
